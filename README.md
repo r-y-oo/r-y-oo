@@ -1,5 +1,5 @@
 # Hi there 👋
-**I'm ElectroHeavenVN, a student at FPT University!**
+**I'm R Y O, a student at Danang Architecture University!**
 - I'm a programmer and a reverse engineer who loves to tackle Unity-based games, c# applications, and other mysterious programs and software!
 - I also love electrical engineering, embedded programming, and DIY!
 <!--- - Sadly, I don't have any girlfriends. -->
@@ -48,7 +48,7 @@
 ### 💬 Join my Discord server!
 <div align="center"> 
   
-[![My Discord server](https://discord.com/api/guilds/1115634791321190420/widget.png?style=banner4)](https://discord.gg/ekMDKCa5jQ)
+[![My Discord server](https://discord.com/api/guilds/1217633435045068890/widget.png?style=banner4)](https://discord.gg/Regpgsrs)
 
 </div>
 
