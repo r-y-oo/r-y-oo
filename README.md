@@ -18,21 +18,21 @@
 - [TLCActivator](https://github.com/ElectroHeavenVN/TLCActivator): Activator for (almost) any ThanhLC's mods and tools.
 - [ZepLaoSharp](https://github.com/ElectroHeavenVN/ZepLaoSharp) (Comming soon): Abstraction layer over [Zalo](https://zalo.me/)'s internal API.
 - [MuseDashDLCUnlocker](https://github.com/ElectroHeavenVN/MuseDashDLCUnlocker):  DLC unlocker for [Muse Dash](https://store.steampowered.com/app/774171/Muse_Dash/) - Play [custom albums](https://github.com/MDMods/CustomAlbums) without spending $35!
-
+<!-- 
 ## 📊 My Github stats
 <div align="center"> 
   
 ![ElectroHeavenVN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectroHeavenVN&text_color=9f9f9f&bg_color=151515)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroHeavenVN&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5&hide=asp.net&langs_count=3)
 
-</div>
+</div> -->
 
 ## 🎵 Song I listen to 
 <div align="center">
   
 [![](https://arpy8-pastfm-backend.hf.space/live?user=ElectroHeavenVN)](https://www.last.fm/user/ElectroHeavenVN)
 <img hspace="10"></img>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko3b7b7zfzs4btqipoeq5edrq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko3b7b7zfzs4btqipoeq5edrq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rjckzhr34svai5oykgzf7oew3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
